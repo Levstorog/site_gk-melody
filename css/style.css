@@ -1,0 +1,248 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    background: #635854;
+    background-color: #635854;
+padding-bottom: 12px;
+padding-top: 12px;
+border-bottom: 4px solid #3596F5;
+}
+
+.navbar {
+max-width: 1200px;
+margin: auto;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.navbar-menu {
+    margin: 0px;
+padding: 0px;
+list-style: none;
+display: flex;
+text-align: center;
+}
+
+.navbar-item {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.navbar-link {
+    text-decoration: none;
+    color: #fff;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-text {
+    display: block;
+    color: #fff;
+    margin-bottom: 14px;
+    line-height: 16px;
+}
+
+.navbar-contacts {
+text-align: right;
+}
+
+.navbar-phone {
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #fff;
+}
+.dom {
+    text-align: right;
+    max-width: 640px;
+    max-height: 734px;
+    margin-left: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.centr {
+    display: flex;
+text-align: right;
+}
+
+
+.itag {
+    width: 332px;
+    height: 505px;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+.domic {
+    width: 200px;
+    height: 300px;
+    margin-top: 30px;
+}
+.tab {
+    margin-top: 30px;
+    width: 297px;
+    height: 51px;
+    text-align: center;
+    background-color: #3596F5;
+    color: #fff;
+    border-radius: 5px;
+    border: #fff;
+    margin-left: 15px;
+}
+.text {
+    color: #635854;
+    text-align: center;
+    font-family: Bebas Neue;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+    width: 332px;
+    height: 37px;
+}
+footer {
+    max-width: 1900px;
+    height: 171px;
+    background: #D7D7D7;
+}
+.fav {
+    width: fixed 65px;
+    height: fixed 65px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.nach {
+display: flex;
+}
+.zvon1 {
+    margin-top: 50px;
+    color: #635854;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.zvon2 {
+margin-top: -10px;
+    color: #635854;
+font-family: Roboto;
+font-size: 17px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.bon {
+    margin-left: 50px;
+}
+.znac {
+width: 20px;
+height: 20px;
+margin-top: 50px;
+margin-right: 5px;
+}
+.silc {
+    position: absolute;
+       right: 50px;
+    margin-top: 70px;
+}
+.konf {
+ margin-left: 15px;
+    color: #635854;
+
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration-line: underline;
+}
+.turn {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+position: relative;
+top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
